@@ -1,0 +1,19 @@
+{
+  "name": "pollingapp",
+  "version": "1.0.0",
+  "description": "Real time polling app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BRANGONG/Real-Time-Polling-App.git"
+  },
+  "author": "Brangong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BRANGONG/Real-Time-Polling-App/issues"
+  },
+  "homepage": "https://github.com/BRANGONG/Real-Time-Polling-App#readme"
+}
